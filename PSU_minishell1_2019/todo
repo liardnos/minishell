@@ -1,0 +1,21 @@
+//%s: Command not found.
+
+//segmentation fault print
+
+//cd
+
+
+
+//cd  qdsqdqs
+//qsds: No such file or directory.
+
+//cd fqdf qsddsf
+//cd: Too many arguments.
+//exit [arg(int)]
+//ls                      test (oevr tab)
+
+
+acd /dev
+cd ~ //plus ou mois
+
+Segmentation fault (core dumped)
